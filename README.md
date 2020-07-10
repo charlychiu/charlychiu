@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on NCKU CSIE
+- 🌱 I’m currently learning PyTorch
+- 💬 Ask me about Laravel
+- 📫 How to reach me: charlychiu@gmail.com
+
 <!--
 **charlychiu/charlychiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
