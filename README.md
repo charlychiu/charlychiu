@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I graduated with a master's degree in Computer Science and Information Engineering from NCKU
-- 🌱 I’m currently learning PyTorch, Keras etc...
+- 🌱 I’m currently learning PyTorch, Keras, etc.
 - 💬 Ask me about Laravel
 - 📫 How to reach me: charlychiu@gmail.com
 
