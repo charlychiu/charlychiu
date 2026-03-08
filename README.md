@@ -1,21 +1,24 @@
-### Hi there 👋
+## Hi, I'm Charly Chiu
 
-- 🔭 I graduated with a master's degree in Computer Science and Information Engineering from NCKU
-- 🌱 I’m currently learning PyTorch, Keras, etc.
-- 💬 Ask me about Laravel
-- 📫 How to reach me: charlychiu@gmail.com
+DevOps / SRE Engineer specializing in ad-tech infrastructure. Building and operating DSP systems across Kubernetes, data pipelines, and monitoring at scale.
 
-<!--
-**charlychiu/charlychiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=charlychiu&color=blue&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/charlychiu?style=social)](https://github.com/charlychiu)
 
-Here are some ideas to get you started:
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=charlychiu" alt="GitHub Streak" height="165" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+**Infra:** Kubernetes, ArgoCD, Helm, Kustomize, Docker, Ansible, Kubespray
+
+**Data:** Apache Spark, Kafka (KRaft), ScyllaDB, Redis, Elasticsearch
+
+**Monitoring:** Prometheus, Grafana, VictoriaMetrics
+
+**ML/DL:** PyTorch, Keras, U-Net, GAN, LSTM
+
+**Languages:** C# / .NET, Python, Go, JavaScript, TypeScript, PHP / Laravel
+
+**CI/CD:** GitLab CI, Jenkins, Argo Events
+
+**AI Tooling:** Claude Code, MCP, LangGraph
